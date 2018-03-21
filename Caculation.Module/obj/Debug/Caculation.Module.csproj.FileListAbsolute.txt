@@ -1,0 +1,5 @@
+C:\MyProjects\MyFileReader\Caculation.Module\bin\Debug\Caculation.Module.dll
+C:\MyProjects\MyFileReader\Caculation.Module\bin\Debug\Caculation.Module.pdb
+C:\MyProjects\MyFileReader\Caculation.Module\obj\Debug\Caculation.Module.dll
+C:\MyProjects\MyFileReader\Caculation.Module\obj\Debug\Caculation.Module.pdb
+C:\MyProjects\MyFileReader\Caculation.Module\obj\Debug\Caculation.Module.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\MyProjects\MyFileReader\Common.Module\bin\Debug\Common.Module.dll
+C:\MyProjects\MyFileReader\Common.Module\bin\Debug\Common.Module.pdb
+C:\MyProjects\MyFileReader\Common.Module\bin\Debug\LumenWorks.Framework.IO.dll
+C:\MyProjects\MyFileReader\Common.Module\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\MyProjects\MyFileReader\Common.Module\bin\Debug\LumenWorks.Framework.IO.xml
+C:\MyProjects\MyFileReader\Common.Module\obj\Debug\Common.Module.dll
+C:\MyProjects\MyFileReader\Common.Module\obj\Debug\Common.Module.pdb
+C:\MyProjects\MyFileReader\Common.Module\obj\Debug\Common.Module.csprojResolveAssemblyReference.cache

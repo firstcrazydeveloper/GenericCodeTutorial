@@ -1,0 +1,12 @@
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\FileReader.Module.dll
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\FileReader.Module.pdb
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\Caculation.Module.dll
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\Common.Module.dll
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\LumenWorks.Framework.IO.dll
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\Caculation.Module.pdb
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\Common.Module.pdb
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\MyProjects\MyFileReader\FileReader.Module\bin\Debug\LumenWorks.Framework.IO.xml
+C:\MyProjects\MyFileReader\FileReader.Module\obj\Debug\FileReader.Module.csprojResolveAssemblyReference.cache
+C:\MyProjects\MyFileReader\FileReader.Module\obj\Debug\FileReader.Module.dll
+C:\MyProjects\MyFileReader\FileReader.Module\obj\Debug\FileReader.Module.pdb
